@@ -21,7 +21,7 @@ A React Vite application featuring user authentication and a Todo List. This app
 * Vite: Build tool
 * Redux Toolkit: State management
 * React Router: Routing
-* Redux Persist: State persistence (optional)
+* Redux Persist: State persistence
 * Formik: Form handling
 * Yup: Form validation
 * Styling: Tailwind CSS
@@ -77,7 +77,7 @@ A React Vite application featuring user authentication and a Todo List. This app
 ### Prerequisites
 
 * Node.js (version 16 or higher)
-* npm or yarn
+* npm
 
 ### Installation
 
